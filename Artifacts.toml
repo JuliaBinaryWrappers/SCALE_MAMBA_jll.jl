@@ -1,0 +1,30 @@
+[[SCALE_MAMBA]]
+arch = "x86_64"
+git-tree-sha1 = "89ecda9ed8dc5e45750cea6e8497c6cc6568789d"
+libc = "glibc"
+march = "avx"
+os = "linux"
+
+    [[SCALE_MAMBA.download]]
+    sha256 = "e7f68e6ae72b67d826bc6c70e0a4b8ce089efcc72162316912a3c34d6b2d2d9b"
+    url = "https://github.com/JuliaBinaryWrappers/SCALE_MAMBA_jll.jl/releases/download/SCALE_MAMBA-v1.14.0+0/SCALE_MAMBA.v1.14.0.x86_64-linux-gnu-march+avx.tar.gz"
+[[SCALE_MAMBA]]
+arch = "x86_64"
+git-tree-sha1 = "89ecda9ed8dc5e45750cea6e8497c6cc6568789d"
+libc = "glibc"
+march = "avx2"
+os = "linux"
+
+    [[SCALE_MAMBA.download]]
+    sha256 = "e7f68e6ae72b67d826bc6c70e0a4b8ce089efcc72162316912a3c34d6b2d2d9b"
+    url = "https://github.com/JuliaBinaryWrappers/SCALE_MAMBA_jll.jl/releases/download/SCALE_MAMBA-v1.14.0+0/SCALE_MAMBA.v1.14.0.x86_64-linux-gnu-march+avx2.tar.gz"
+[[SCALE_MAMBA]]
+arch = "x86_64"
+git-tree-sha1 = "89ecda9ed8dc5e45750cea6e8497c6cc6568789d"
+libc = "glibc"
+march = "avx512"
+os = "linux"
+
+    [[SCALE_MAMBA.download]]
+    sha256 = "e7f68e6ae72b67d826bc6c70e0a4b8ce089efcc72162316912a3c34d6b2d2d9b"
+    url = "https://github.com/JuliaBinaryWrappers/SCALE_MAMBA_jll.jl/releases/download/SCALE_MAMBA-v1.14.0+0/SCALE_MAMBA.v1.14.0.x86_64-linux-gnu-march+avx512.tar.gz"
